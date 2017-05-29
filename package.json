@@ -1,0 +1,46 @@
+{
+  "name": "rustify-js",
+  "version": "0.1.0",
+  "description": "Integrate different rustification-modules for one seamless environment",
+  "author": {
+    "email": "me@marco-alka.de",
+    "name": "Marco Alka",
+    "url": "https://marco-alka.de"
+  },
+  "bugs": {
+    "url": "https://github.com/minecrawler/rustify-js/issues"
+  },
+  "dependencies": {
+    "result-js": "^3.0.1",
+    "roption-js": "^1.0.0"
+  },
+  "devDependencies": {
+    "coveralls": "^2.13.1",
+    "tap": "^10.3.2"
+  },
+  "keywords": [
+    "Rust",
+    "Option",
+    "Monad",
+    "Result"
+  ],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "maruru",
+      "email": "me@marco-alka.de"
+    }
+  ],
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minecrawler/rustify-js.git"
+  },
+  "scripts": {
+    "test": "tap --coverage --coverage-report=lcov test.js"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
