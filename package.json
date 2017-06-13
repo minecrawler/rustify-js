@@ -1,6 +1,6 @@
 {
   "name": "rustify-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Integrate different rustification-modules for one seamless environment",
   "author": {
     "email": "me@marco-alka.de",
