@@ -1,6 +1,6 @@
 {
   "name": "rustify-js",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Integrate different rustification-modules for one seamless environment",
   "author": {
     "email": "me@marco-alka.de",
@@ -11,7 +11,7 @@
     "url": "https://github.com/minecrawler/rustify-js/issues"
   },
   "dependencies": {
-    "result-js": "^3.0.1",
+    "result-js": "^4.0.0",
     "roption-js": "^1.0.0"
   },
   "devDependencies": {
